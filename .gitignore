@@ -77,3 +77,6 @@ crash.log
 *.log
 tmp/
 temp/
+.env
+*.env
+!.env.example
